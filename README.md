@@ -59,9 +59,7 @@ My research is published under verifiable DOI and indexed in Zenodo and OpenAIRE
 - [What the observer makes real](https://carlosravello.com/what-the-observer-makes-real.html) — Wheeler's it-from-bit, LLM hierarchy, semantic identity
 - [The model that stops updating disappears](https://carlosravello.com/the-model-that-stops-updating-disappears.html) — Sterling & Eyer allostasis, Friston active inference, anticipatory strategy
 
----
-
-## Digital Architecture
+----
 
 ## Digital Architecture
 
