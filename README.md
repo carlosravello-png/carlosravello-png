@@ -20,7 +20,7 @@ My research is published under verifiable DOI and indexed in Zenodo and OpenAIRE
 | | |
 |---|---|
 | **[BikeLab Studio](https://www.bikelabstudio.com)** | Evidence-based cycling engineering. Thermodynamics, tribology, Monte Carlo simulation tools. Trujillo, Perú. |
-| **[Zoovet Travel](https://zoovettravel.com)** | International pet relocation clinic. SENASA protocols, zoosanitary certification, trilingual ES/EN/FR. Wikidata [Q138788858](https://www.wikidata.org/wiki/Q138788858). |
+| **[Zoovet Travel](https://zoovettravel.com)** | International pet relocation clinic. SENASA protocols, zoosanitary certification, trilingual ES/EN/FR
 | **[Katsudōmo](https://www.katsudomo.com)** | Technical interpretation of Japanese street food. Dark kitchen format. Lima, Perú. Business license registered under my name (Municipalidad de Surquillo). |
 
 ---
