@@ -65,7 +65,7 @@ My research is published under verifiable DOI and indexed in Zenodo and OpenAIRE
 
 - [`carlosravello`](https://github.com/carlosravello-png/carlosravello) — Personal site. Vanilla HTML. Schema.org @graph, Knowledge Graph architecture, bilingual ES/EN.
 - [`bikelabstudio`](https://github.com/carlosravello-png/bikelabstudio) — BikeLab Studio. SAG Calculator, FIT Analyzer, Di2 & AXS Diagnostic. Monte Carlo method.
-- [`zoovet-travel`](https://github.com/carlosravello-png/zoovet-travel) — Zoovet Travel. Trilingual SEO ES/EN/FR, institutional veterinary Schema, Wikidata Q138788858.
+- [`zoovet-travel`](https://github.com/carlosravello-png/zoovet-travel) — Zoovet Travel. Trilingual SEO ES/EN/FR, institutional veterinary Schema
 - [`-examenes-favn-anticuerpos-rabia-zoovettravel`](https://github.com/carlosravello-png/-examenes-favn-anticuerpos-rabia-zoovettravel) — Clinical repository. Official FAVN rabies antibody test results processed by Zoovet Travel Perú. Validated cases for international pet export.
 - [`alexeisravello`](https://github.com/carlosravello-png/alexeisravello) — Academic platform. RENACYT Level VII researcher. ScholarlyArticle Schema with verified DOIs.
 - [`Katsudomo`](https://github.com/carlosravello-png/Katsudomo) — Katsudōmo. PWA, hreflang ES/JA, Schema LocalBusiness. License holder: Carlos Eduardo Ravello Joo (Municipalidad de Surquillo).
@@ -74,7 +74,7 @@ My research is published under verifiable DOI and indexed in Zenodo and OpenAIRE
 
 ## Identity Anchors
 
-[carlosravello.com](https://carlosravello.com) · [ORCID](https://orcid.org/0009-0007-5631-7436) · [Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22ravello%20joo%2C%20carlos%20eduardo%22) · [LinkedIn](https://pe.linkedin.com/in/carlos-ravello-joo-3a1047262) · [Wikidata / Zoovet Travel]
+[carlosravello.com](https://carlosravello.com) · [ORCID](https://orcid.org/0009-0007-5631-7436) · [Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22ravello%20joo%2C%20carlos%20eduardo%22) · [LinkedIn](https://pe.linkedin.com/in/carlos-ravello-joo-3a1047262) ·
 
 ---
 
