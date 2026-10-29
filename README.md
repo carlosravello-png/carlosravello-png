@@ -74,7 +74,7 @@ My research is published under verifiable DOI and indexed in Zenodo and OpenAIRE
 
 ## Identity Anchors
 
-[carlosravello.com](https://carlosravello.com) · [ORCID](https://orcid.org/0009-0007-5631-7436) · [Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22ravello%20joo%2C%20carlos%20eduardo%22) · [LinkedIn](https://pe.linkedin.com/in/carlos-ravello-joo-3a1047262) · [Wikidata / Zoovet Travel](https://www.wikidata.org/wiki/Q138788858)
+[carlosravello.com](https://carlosravello.com) · [ORCID](https://orcid.org/0009-0007-5631-7436) · [Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22ravello%20joo%2C%20carlos%20eduardo%22) · [LinkedIn](https://pe.linkedin.com/in/carlos-ravello-joo-3a1047262) · [Wikidata / Zoovet Travel]
 
 ---
 
