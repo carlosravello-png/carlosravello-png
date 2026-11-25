@@ -10,7 +10,7 @@ Founder · Independent researcher · Psychology student · Trujillo · Lima, Per
 
 ---
 
-I write calculation software for cycling and statistics. Each tool ships with its engine, golden vectors, an independent verifier and a public CI run, and each release is deposited in Zenodo with a DOI and archived in Software Heritage. The idea is simple: you should be able to check the numbers without having to trust me.
+I write calculation software for cycling and statistics, and tools that turn research documents into auditable text. Each tool ships with its tests or an independent verifier, a public CI run and a record of what it was checked against, and each release is deposited in Zenodo with a DOI and archived in Software Heritage. The idea is simple: you should be able to check the results without having to trust me.
 
 I run **BikeLab Studio** (cycling engineering, Trujillo) and **Zoovet Travel** (international pet export, since 2013, co-directed with Dr. Jessica Camacho García).
 
